@@ -11,9 +11,7 @@
 # Ignore other unneeded files.
 doc/
 *.swp
-*.rb.swp
 *~
-*.rb~
 .project
 .DS_Store
 .idea
